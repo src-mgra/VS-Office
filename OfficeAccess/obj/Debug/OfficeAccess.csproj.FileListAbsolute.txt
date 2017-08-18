@@ -1,0 +1,10 @@
+C:\downloads\VS2013\Projects\OfficeAccess\OfficeAccess\bin\Debug\OfficeAccess.exe.config
+C:\downloads\VS2013\Projects\OfficeAccess\OfficeAccess\bin\Debug\OfficeAccess.exe
+C:\downloads\VS2013\Projects\OfficeAccess\OfficeAccess\bin\Debug\OfficeAccess.pdb
+C:\downloads\VS2013\Projects\OfficeAccess\OfficeAccess\obj\Debug\OfficeAccess.csprojResolveAssemblyReference.cache
+C:\downloads\VS2013\Projects\OfficeAccess\OfficeAccess\obj\Debug\OfficeAccess.csproj.ResolveComReference.cache
+C:\downloads\VS2013\Projects\OfficeAccess\OfficeAccess\obj\Debug\OfficeAccess.Form1.resources
+C:\downloads\VS2013\Projects\OfficeAccess\OfficeAccess\obj\Debug\OfficeAccess.Properties.Resources.resources
+C:\downloads\VS2013\Projects\OfficeAccess\OfficeAccess\obj\Debug\OfficeAccess.csproj.GenerateResource.Cache
+C:\downloads\VS2013\Projects\OfficeAccess\OfficeAccess\obj\Debug\OfficeAccess.exe
+C:\downloads\VS2013\Projects\OfficeAccess\OfficeAccess\obj\Debug\OfficeAccess.pdb
